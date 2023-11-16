@@ -1,0 +1,25 @@
+
+div {
+    height: 200px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    display: flexbox;
+    margin: 20px;
+}
+
+p.center {
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+div.one {
+    background-color: crimson;
+    border-color: chartreuse;
+}
+
+div.two {
+    background-color: cornflowerblue;
+    border-color: yellow;
+}
